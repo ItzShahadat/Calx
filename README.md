@@ -12,7 +12,8 @@ CalX is a simple yet powerful calendar tool for Termux. It's completely written 
 
 ## Installation:
 1. Clone this repo: `git clone https://github.com/ItzShahadat/CalX.git`
-2. Run `cd CalX/bash install.sh` to install it globally.
+2. Run `cd CalX`.
+3. and then `bash install.sh` to install it globally.
 
 ## Usage:
 Simply type `calx` in Termux to start.
